@@ -1,5 +1,42 @@
-readme file for my research
+Case Report: Periocular Malignant Neoplasm
 
+This repository contains supplementary material for a medical case report involving a 57-year old male presenting with lower eyelid basal cell carcinoma.
+
+It includes anonymized data and supporting documentation such as the CARE Checklist. 
+
+---
+
+Contents
+
+- `CARE-Checklist.docx` – Completed CARE checklist for structured case reporting  
+- `README.md` – This file  
+- CBCarticle.docx - The full case report document  
+
+---
+
+Case Summary
+
+- **Patient**: 57-year old male — anonymized 
+- **Condition**: Lower eyelid basal cell carcinoma  
+- **Diagnostic workup**: skin biopsy, histopathological examination using hematoxylin eosin staining
+- **Outcome**: Surgical excision with good clinical outcomes
+- **Key teaching point**: The lower eyelid is among high-risk sites for photoinduced skin cancer.
+
+---
+
+CARE Compliance
+
+This case report complies with the [CARE guidelines](https://www.care-statement.org/).  
+Please refer to the `CARE-Checklist.docx` file for full itemization.
+
+---
+
+License
+
+This repository is shared under the **Creative Commons Attribution 4.0 (CC BY 4.0)** license.  
+You are free to share and adapt the material with appropriate credit.
+
+---
 Article:
 Case Report: Periocular Malignant Neoplasm
 
